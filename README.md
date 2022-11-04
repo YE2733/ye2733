@@ -1,6 +1,6 @@
 <p align='center'>
   <a href="https://github.com/YE2733">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=300&section=header&text=Ayeong%20Repository&fontSize=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=300&section=header&text=Ayeong%20Jeon&fontSize=50"/>
   </a>
 </p>
 
