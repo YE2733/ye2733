@@ -16,6 +16,12 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 
+
+## Project
+### miniproject 1 
+
+
+
 <!--
 **YE2733/ye2733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
