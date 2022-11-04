@@ -3,6 +3,11 @@
 ## SKILLS
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
+
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=html5&logoColor=white">
+
+
+
 <!--
 **YE2733/ye2733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
