@@ -1,6 +1,6 @@
 <p align='center'>
-  <a href="https://github.com/Ayeong Jeon">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=300&section=header&text=Lecture%20Repository&fontSize=50"/>
+  <a href="https://github.com/YE2733">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=300&section=header&text=Lecture%20Ayeong Jeon&fontSize=50"/>
   </a>
 </p>
 ## Profile
